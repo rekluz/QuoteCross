@@ -1,7 +1,8 @@
 # <p align="center"> QuoteCross </p>
 QuoteCross is a unique word puzzle game that combines hidden quotes with interactive word discovery. Players solve clue words hidden throughout a grid, revealing an inspirational quote when all puzzles are completed.<p align="center">
-  <img src="https://github.com/user-attachments/assets/cfe14aa6-5bc8-4fb1-b9a4-22d8628f0873" height="400">
+<img src="https://github.com/user-attachments/assets/a31cd777-2aa8-407f-8d06-785ad633caa7" height="400">
 </p>
+
 Features
 Core Gameplay
 
@@ -79,5 +80,5 @@ This project and its associated assets (source code, graphics, and design) are t
     Prohibited Use: No part of this project may be redistributed, modified for public use, or used in commercial products without express written permission.
     No Warranty: This software is provided "as-is," without warranty of any kind.
 
-<img width="2928" height="352" alt="rekluzgamesbanner" src="https://github.com/user-attachments/assets/d4bf975e-7159-4e81-a2b5-75c7e56a021c" />
+<img width="2928" height="352" alt="rekluzgamesbanner" src="https://github.com/user-attachments/assets/a91795a7-1cfa-4693-8471-b2170ab29c9c" />
 
