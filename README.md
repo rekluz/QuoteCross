@@ -76,9 +76,9 @@ Copyright © 2026 Rico (Rekluz Software). All Rights Reserved.
 
 This project and its associated assets (source code, graphics, and design) are the exclusive property of the creator.
 
-    Personal Use: You may view and fork this repository for personal, educational, and non-commercial study only.
-    Prohibited Use: No part of this project may be redistributed, modified for public use, or used in commercial products without express written permission.
-    No Warranty: This software is provided "as-is," without warranty of any kind.
+  Personal Use: You may view and fork this repository for personal, educational, and non-commercial study only.
+  Prohibited Use: No part of this project may be redistributed, modified for public use, or used in commercial products without express written permission.
+  No Warranty: This software is provided "as-is," without warranty of any kind.
 
 <img width="2928" height="352" alt="rekluzgamesbanner" src="https://github.com/user-attachments/assets/a91795a7-1cfa-4693-8471-b2170ab29c9c" />
 
