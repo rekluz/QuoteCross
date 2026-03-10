@@ -1,0 +1,23 @@
+{
+  "quoteText": "We don’t stop playing because we grow old; We grow old because we stop playing.",
+  "quoteAttribution": "George Bernard Shaw",
+  "gridLetters": "COMEBACKSAFEILLBEHERE",
+  "clueWords": [
+    { "word": "SAFE", "clue": "Protected from harm" },
+    { "word": "BACK", "clue": "Return to a place" },
+    { "word": "HERE", "clue": "In this location" },
+    { "word": "COME", "clue": "To arrive" }
+  ]
+}
+```
+
+So:
+- `quoteText` = the properly formatted quote with spaces & punctuation
+- `quoteAttribution` = who said it
+- `gridLetters` = the quote without spaces/punctuation (what goes in the grid)
+- `clueWords` = the puzzle answers with clues
+
+When all clues are solved, a popup shows:
+```
+"Come back safe. I'll be here"
+— The Wanderer
