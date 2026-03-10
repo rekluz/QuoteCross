@@ -1,0 +1,45 @@
+[
+  {
+    "quoteText": "Set your minds on things above.",
+    "quoteAttribution": "Colossians 3:2",
+    "gridLetters": "SETYOURMINDSONTHINGSABOVE",
+    "clueWords": [
+      {"word": "SAFE", "clue": "Protected from harm"},
+      {"word": "BACK", "clue": "Return to a place"},
+      {"word": "SNOW", "clue": "Cold white stuff"},
+      {"word": "MANGO", "clue": "Tropical fruit"}
+    ]
+  },
+  {
+    "quoteText": "Come back safe. I'll be here.",
+    "quoteAttribution": "The Wanderer",
+    "gridLetters": "COMEBACKSAFEILLBEHERESTAYSTRONGANDNEVERGIVEUPUNTILTHEWORKISDONEZ",
+    "clueWords": [
+      {"word": "COME", "clue": "To arrive"},
+      {"word": "BACK", "clue": "Return to a place"},
+      {"word": "SAFE", "clue": "Protected from harm"},
+      {"word": "HERE", "clue": "In this location"},
+      {"word": "STAY", "clue": "To remain in place"},
+      {"word": "DONE", "clue": "Finished or completed"}
+    ]
+  },
+  {
+    "quoteText": "Nature never hurries, yet everything is accomplished.",
+    "quoteAttribution": "Lao Tzu",
+    "gridLetters": "NATURENEVERHURRIESYETEVERYTHINGISACCOMPLISHEDFLOWERFORESTGARDEN",
+    "clueWords": [
+      {"word": "FLOWER", "clue": "A colorful plant part"},
+      {"word": "FOREST", "clue": "Large area of trees"},
+      {"word": "GARDEN", "clue": "Plot for growing plants"}
+    ]
+  },
+  {
+    "quoteText": "I have not failed. I've just found ten thousand ways that won't work.",
+    "quoteAttribution": "Thomas Edison",
+    "gridLetters": "IHAVENOTFAILEDIVEJUSTFOUNDTENTHOUSANDWAYSTHATWONTWORKLAMPBULB",
+    "clueWords": [
+      {"word": "LAMP", "clue": "Device for giving light"},
+      {"word": "BULB", "clue": "Glass part of electric light"}
+    ]
+  }
+]
