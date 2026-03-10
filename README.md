@@ -69,6 +69,15 @@ Feedback & Bug Reports
 This is an alpha release. Bug reports and feature suggestions are welcome!
 
 Enjoy discovering hidden quotes in QuoteCross! 
+## ⚖️ License & Copyright
+
+Copyright © 2026 Rico (Rekluz Software). All Rights Reserved.
+
+This project and its associated assets (source code, graphics, and design) are the exclusive property of the creator.
+
+    Personal Use: You may view and fork this repository for personal, educational, and non-commercial study only.
+    Prohibited Use: No part of this project may be redistributed, modified for public use, or used in commercial products without express written permission.
+    No Warranty: This software is provided "as-is," without warranty of any kind.
 
 <img width="2928" height="352" alt="rekluzgamesbanner" src="https://github.com/user-attachments/assets/d4bf975e-7159-4e81-a2b5-75c7e56a021c" />
 
