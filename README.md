@@ -23,11 +23,6 @@ Multiple Puzzles: Start with 2 complete puzzles
 Sequential Navigation: "Next Puzzle" button to progress through the game
 Menu System: Easy access to puzzle selection and game reset
 
-Content
-
-Puzzle 1: "Set your minds on things above." - Colossians 3:2
-Puzzle 2: "Come back safe. I'll be here." - The Wanderer
-
 Gameplay Instructions
 
 Select a puzzle from the main menu
@@ -47,7 +42,6 @@ Framework: Jetpack Compose
 Min SDK: Android 24
 Target SDK: Android 36
 Version Code: 1
-Package Name: com.rekluz.quotecross
 
 Known Limitations (Alpha)
 Consider this an Alpha build that is just in the beginning stages of being built
