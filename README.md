@@ -3,8 +3,10 @@ QuoteCross is a unique word puzzle game that combines hidden quotes with interac
 <img src="https://github.com/user-attachments/assets/a31cd777-2aa8-407f-8d06-785ad633caa7" height="400">
 </p>
 
+NOTE: THIS GAME IS CURRENTLY IN A PRE ALPHA STATE. 
+
 Features
-THIS GAME IS CURRENTLY IN A PRE ALPHA STATE. 
+
 Core Gameplay
 
 Interactive Grid: Tap letters to select and form words
